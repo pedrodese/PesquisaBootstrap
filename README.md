@@ -19,3 +19,7 @@ Este projeto é um site simples e responsivo desenvolvido com o Bootstrap, apres
 
 ```bash
 git clone https://github.com/seuusuario/nome-do-repositorio.git
+
+```
+
+## Navegue até o diretorio que voce clonou em sua maquina, e abra com o Visual Studio Code, e depois use a extensão Live Server para rodar o projeto
